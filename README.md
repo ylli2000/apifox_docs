@@ -18,12 +18,12 @@ By default, Apifox is already capable of generating a set of very user-friendly 
 2. Apifox has a built-in smart mock function, which intelligently optimises the automatically generated mocking rules according to the field names and data type. For example:
 
 
-> The string type field contains `image`, mock generates an image link with URL;
-> 
-> The string type field contains `time`, mock generates a time string;
-> 
-> The string type field contains `city`, mock generates a city name;
-> 
+    > The string type field contains `image`, mock generates an image link with URL;
+    > 
+    > The string type field contains `time`, mock generates a time string;
+    > 
+    > The string type field contains `city`, mock generates a city name;
+    > 
 
 3. Based on built-in rules (which can be turned off), Apifox can identify string fields such as `image`, `avatar`, `username`, `mobile`, `phone`, `url`, `date`, `time`, `timestamp`, `email`, `state`, `city`, `address`, `IP` and more, deriving amazingly realistic mock data.
 
