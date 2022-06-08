@@ -1,7 +1,7 @@
 **试翻译页面 https://www.apifox.cn/help/app/mock/**
 
-**（第一小节基本用直译方式，之后我试着把句子改短成比较简洁的意译，感觉这样翻译更加贴切)**
-）**
+**第一小节基本用直译方式，之后我试着用比较简洁的意译，感觉这样翻译更加贴切**
+
 
 ## Mock Feature Explained
 
@@ -33,7 +33,7 @@ By default, Apifox is already capable of generating a set of very user-friendly 
 
 ```json
 {
-	"username": "黎勇",
+    "username": "黎勇",
     "phone": "13247278136",
     "age": 23,
     "avatar": "http://dummyimage.com/100x100",
