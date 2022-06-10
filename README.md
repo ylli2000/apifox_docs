@@ -116,7 +116,7 @@ Apifox supports very flexible mocking rules to fulfil your requirements.
 
     When the data field(s) in the response (or data model) from the designated API has not been assigned a mocking rule, the system will attempt to use Smart Mock rules to generate the required data to achieve zero configuration at run time and instantly generate user-friendly mock data. See [Smart Mock Manual]( https://www.apifox.cn/help/app/mock/mock-custom-scripts/) for more information.
 
-## 4 - Mock Priority Rules
+## 4 - Mocking Rules Priority
 
 When data fields are automatically being mocked, the configurations are applied in the following order of priority:
 
